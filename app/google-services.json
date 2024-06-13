@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996992114473",
+    "project_id": "dexanet-finance",
+    "storage_bucket": "dexanet-finance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996992114473:android:31d07cd840e53460312138",
+        "android_client_info": {
+          "package_name": "com.azhar.hitungpengeluaran"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTSSOOz_FcTusU05cF3MXH0Rew0rRg5Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
